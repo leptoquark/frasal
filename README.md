@@ -21,3 +21,5 @@ if (val=='P'):
 else:
   print(val);
 ```
+
+in $main.py$ è present eil codice per esportare la funzionalità di addestramento e predizione in flask
